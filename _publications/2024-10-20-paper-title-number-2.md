@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-10-20-paper-title-number-2
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2024-10-20
 venue: 'Software Language Engineering 2024'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3687997.3695645'
 citation: 'Yunjeong Lee, Kiran Gopinathan, Ziyi Yang, Matthew Flatt, and Ilya Sergey. (2024). &quot;DSLs in Racket: You Want It How, Now?&quot; <i>Software Language Engineering (SLE '24)</i>.'
