@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper presents a taxonomy of language design intents and analysis of Racket-embedded domain specific languages.'
 date: 2024-10-20
 venue: 'Software Language Engineering'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://yunjeong-lee.github.io/files/dsl-rkt-slides.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3687997.3695645'
 #citation: 'Yunjeong Lee, Kiran Gopinathan, Ziyi Yang, Matthew Flatt, and Ilya Sergey. (2024). &quot;DSLs in Racket.&quot; <i>SLE</i>.'
 ---
