@@ -45,3 +45,5 @@ Service
 
 * SIGPLAN Long-Term Mentoring Committee operation team, Nov 2022 - Current
 * NUS School of Computing Graduate Student Association of Computing, Jan 2021 - May 2024
+* Artifact evaluation: APLAS 2022, VMCAI 2021
+* Student volunteering: ESEC/FSE 2022, ICFP 2020
