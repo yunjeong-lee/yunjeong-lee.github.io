@@ -2,10 +2,11 @@
 title: "DSLs in Racket: You Want It How, Now?"
 collection: publications
 category: conferences
-permalink: /publications/2024/10/paper-title-number-2
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-10-20
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper presents a taxonomy of language design intents and analysis of Racket-embedded domain specific languages.'
+date: 2010-10-01
 venue: 'Software Language Engineering 2024'
+slidesurl: 'http://yunjeong-lee.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3687997.3695645'
 citation: 'Yunjeong Lee, Kiran Gopinathan, Ziyi Yang, Matthew Flatt, and Ilya Sergey. (2024). &quot;DSLs in Racket: You Want It How, Now?&quot; <i>Software Language Engineering (SLE '24)</i>.'
 ---
