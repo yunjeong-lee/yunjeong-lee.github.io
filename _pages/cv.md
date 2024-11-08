@@ -12,18 +12,8 @@ Education
 =========
 
 * PhD in Computer Science, National University of Singapore, 2020 - Current
-* M.S. in Energy Systems, Skolkovo Institute of Science and Technology, 2017
-* B.S. in Finance and Mathematics, New York University, 2013
-
-
-Work experience
-===============
-
-* Research Intern at NUS School of Computing, Feb 2019 - Jul 2020
-* Consultant at KPMG Korea, Sep 2017 - Feb 2019
-* IT Consultant at Ohio Department of Medicaid, Oct 2013 - Aug 2014
-* Intern at NY State Department of Financial Services, May 2012 - Aug 2012
-* Research Intern at NYU Stern School of Business, Apr 2012 - Jan 2013
+* M.S. in Energy Systems, Skolkovo Institute of Science and Technology
+* B.S. in Finance and Mathematics, New York University
 
 Publications
 ============
@@ -32,14 +22,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
 Teaching
 ========
 
 <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 
 Service
 =======
