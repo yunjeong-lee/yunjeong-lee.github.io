@@ -8,12 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
+<br>
+
 Education
 =========
 
 * PhD in Computer Science, National University of Singapore, 2020 - Current
 * M.S. in Energy Systems, Skolkovo Institute of Science and Technology
 * B.S. in Finance and Mathematics, New York University
+
+<br>
 
 Publications
 ============
@@ -22,6 +26,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
+
 Teaching
 ========
 
@@ -29,9 +35,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
+
 Awards
 =======
 * NUS School of Computing [Research Achievement Award](https://api.accredible.com/v1/auth/invite?code=07b0a32922b3ca58d5c0&credential_id=badb4731-dda7-4e42-bed8-d3c7da0e9de5&url=https%3A%2F%2Fcredentials.nus.edu.sg%2Fbadb4731-dda7-4e42-bed8-d3c7da0e9de5&ident=631eb05a-6266-4f9d-9462-0841c3aa1b12), AY2024/2025
+
+<br>
 
 Service
 =======
