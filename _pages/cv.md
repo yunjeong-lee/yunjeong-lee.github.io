@@ -48,7 +48,6 @@ Awards
 Service
 =======
 
-* Program Committee: PAINT 2026
 * Artifact evaluation: APLAS 2022, VMCAI 2021
 * Student volunteering: ICFP/SPLASH 2025 (co-chair), ESEC/FSE 2022, ICFP 2020
 * SIGPLAN Long-Term Mentoring Committee operation team, Nov 2022 - Apr 2025
