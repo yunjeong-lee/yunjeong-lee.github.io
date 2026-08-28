@@ -6,7 +6,7 @@ permalink: /publications/2026/02/paper-title-number-3
 excerpt: 'This paper is about repairing grammars using tree automata and examples.'
 date: 2026-04-06
 venue: 'Object-oriented Programming, Systems, Languages, and Applications (OOPSLA)'
-paperurl: 'https://arxiv.org/abs/2602.18166'
+paperurl: 'https://dl.acm.org/doi/10.1145/3798242'
 #citation: 'Yunjeong Lee, Gokul Rajiv, and Ilya Sergey. (2024). &quot;Tree Automata&quot; <i>Object-Oriented Programming, Systems, Languages & Applications (OOPSLA '26)</i>.'
 ---
 
