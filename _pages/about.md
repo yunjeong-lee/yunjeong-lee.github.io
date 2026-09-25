@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the School of Computing, National University of Singapore (NUS), working with [Prof. Ilya Sergey](https://ilyasergey.net/). I am interested in programming languages, specifically with regard to their design. My current projects are about developing (1) a repair tool for ambiguous context-free grammars based on automata theory, (2) compiler synthesis for translating an obscure language to familiar language, and (3) a meta-DSL prompt generation for teaching LLM a new DSL. My favorite languages are Racket and OCaml.
+I am a Lecturer at the Singapore University of Technology and Design (SUTD). My interests are in programming languages, language and its tooling design, meta-programming, and programming education. 
 
-Prior to PhD, I was a Research Intern at NUS School of Computing. I have a MSc in Energy Systems from Skolkovo Institute of Science and Technology, and BS in Finance and Mathematics from New York University.
+My research at the National University of Singapore (NUS), advised by Prof. Ilya Sergey, focuses on tools and techniques for the practical design of programming languages, including grammar repair, domain-specific languages, and automated program repair. My favorite programming languages include Racket and OCaml.
 
-I go by my first name, Yunjeong (pronounced as /yeon jeong/, 연정 in Korean).
+I received an MSc in Energy Systems from Skolkovo Institute of Science and Technology and a BS in Finance and Mathematics from New York University.
+
+I go by my first name, Yunjeong (연정, pronounced roughly "yuhn-jung" in Korean).
